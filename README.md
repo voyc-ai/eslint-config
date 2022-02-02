@@ -19,7 +19,7 @@ This project uses [node](https://nodejs.org) and [npm](https://www.npmjs.com).
 Install the configuration as well as `eslint` and `prettier`
 
 ```sh
-$ npm install eslint prettier --save-dev @voyc-ai/eslint-config
+$ npm install --save-dev @voyc-ai/eslint-config eslint prettier
 ```
 
 ## Usage
